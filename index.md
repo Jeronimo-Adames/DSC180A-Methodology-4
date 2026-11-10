@@ -26,3 +26,8 @@ I think that the decision to split the group into three teams has been helpful f
 **4. What other techniques would you be interested in using in your project?**
 
 So far, we have done very limited coding, and most of it has been done by one team. I would be interested in getting more involved in building and testing prototypes. It would be useful to take what we have learned about what the technicians actually needs and turn it into something they could try out. Watching how someone uses a prototype and hearing their feedback could help us catch problems we might overlook when discussing ideas as a group.
+
+
+
+
+Website Link: https://jeronimo-adames.github.io/DSC180A-Methodology-4/
